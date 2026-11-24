@@ -32,7 +32,7 @@ The system provides an interactive dashboard where users can explore historical 
 
 ## 🖥️ Dashboard Preview
 
-![Air Quality Dashboard](dashboard.png)
+![Bhagalpur Air Quality Dashboard](Screenshot%202026-11-24%20215520.png)
 
 The dashboard provides an overview of air quality data, model-related information and visualizations to help users explore pollution patterns.
 
